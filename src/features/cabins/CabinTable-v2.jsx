@@ -13,6 +13,7 @@ const Table = styled.div`
   overflow: hidden;
 `;
 
+
 const TableHeader = styled.header`
   display: grid;
   grid-template-columns: 0.6fr 1.8fr 2.2fr 1fr 1fr 1fr;
